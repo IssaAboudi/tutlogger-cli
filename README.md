@@ -1,4 +1,4 @@
-## TutLogger by (Matthew) Issa Aboudi
+## TutLogger by (Matthew) Issa Aboudi (CLI VERSION - DEPRICATED)
 As an LPC tutor I wanted a more convenient way to keep track of the tutees I have, and the sessions I have done on a particular day. Application is completely terminal based as of 1/5/2022 but I have plans to make this a cross platform GUI (graphical user interface) application.
 
 **Libraries & Toolkits used:**
